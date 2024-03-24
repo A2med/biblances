@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1605ec25b9bc0354084b125997cd38b0, type: 3}
+  m_Name: "\uFEE2\uFEC3\uFE8E\uFEE4\uFEC3 \uFEAD\uFEED\uFEAC\uFE91"
+  m_EditorClassIdentifier: 
+  description: "\uFEE2\uFEC3\uFE8E\uFEE4\uFEC4\uFEDF\uFE8D \uFEDD\uFEEE\uFEBC\uFEA4\uFEE3
+    \uFE8E\uFEE8\uFEDF \uFE9E\uFE98\uFEE8\uFE97\uFEED \uFEE2\uFEC3\uFE8E\uFEE4\uFEC4\uFEDF\uFE8D
+    \uFE94\uFECB\uFE8D\uFEAD\uFEB0\uFEDF \uFEAD\uFEED\uFEAC\uFE91"
+  thumbnail: {fileID: -291240327, guid: 3f8f6c419bbdebf43807d9afa2a67b35, type: 3}
+  gameModel: {fileID: 0}
+  cost: 150
+  daysToGrow: 1
+  cropToYield: {fileID: 11400000, guid: 29e49cd735195a84ba7fdfe9260e5089, type: 2}
+  seedling: {fileID: 5218196688843657114, guid: 034bd397125c8fd4ebc5e89b2f617327, type: 3}
+  regrowable: 1
+  daysToRegrow: 1

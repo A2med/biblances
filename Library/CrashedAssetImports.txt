@@ -1,0 +1,4 @@
+Assets/Prefabs/Essential.prefab
+Assets/Prefabs/UI/Character Entry.prefab
+Assets/Prefabs/UI/Inventory Slot.prefab
+Assets/Prefabs/UI/Shop Entry.prefab

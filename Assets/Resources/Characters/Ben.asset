@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 494e745ec0ecd904d8eda6a11fbdc188, type: 3}
+  m_Name: Ben
+  m_EditorClassIdentifier: 
+  portrait: {fileID: -808286079, guid: 90d23ff6f8509154f8a04acb70551291, type: 3}
+  birthday:
+    year: 0
+    season: 0
+    day: 5
+    hour: 0
+    minute: 0
+  likes:
+  - {fileID: 11400000, guid: dee51b9c9597bd44e80d22c1a88b73cc, type: 2}
+  dislikes:
+  - {fileID: 11400000, guid: b994392abf06f9b44aaed178fe9c4d2d, type: 2}
+  onFirstMeet:
+  - speaker: Ben
+    message: "\u061F\uFEEA\uFED8\uFEC4\uFEE8\uFEE4\uFEDF\uFE8D \uFEF0\uFED3 \uFEAA\uFEF3\uFEAA\uFEA0\uFEDF\uFE8D
+      \uFEC9\uFEAD\uFE8D\uFEB0\uFEE4\uFEDF\uFE8D \uFE96\uFEE7\uFE83 \uFEDE\uFEEB"
+  - speaker: Ben
+    message: "!\uFE95\uFE8E\uFEE7\uFE8D\uFEEE\uFEF4\uFEA4\uFEDF\uFE8D \uFE94\uFEF4\uFE91\uFEAE\uFE97
+      \uFEDD\uFEEE\uFEA3 \uFEA2\uFE8B\uFE8E\uFEBC\uFEE7 \uFEF0\uFEE0\uFECB \uFEDD\uFEEE\uFEBC\uFEA4\uFEE0\uFEDF
+      \uFEF2\uFE97\uFEAD\uFE8E\uFEF3\uFEAF \uFEDA\uFEE8\uFEDC\uFEE4\uFEF3 \uFE94\uFEE8\uFEF3\uFEAA\uFEE4\uFEDF\uFE8D
+      \uFEE9\uFEAC\uFEEB \uFEF2\uFED3 \uFE94\uFECB\uFEAD\uFEB0\uFEE3 \uFEAE\uFEF3\uFEA9\uFE83
+      \uFEE6\uFE91 \uFE8E\uFEE7\uFE83 \uFEDA\uFE8B\uFE8E\uFED8\uFEE0\uFE91 \uFEAA\uFEF4\uFECC\uFEB3"
+  defaultDialogue:
+  - speaker: Ben
+    message: "\u061F\uFE94\uFECB\uFEAD\uFEB0\uFEE4\uFEDF\uFE8D \uFEDD\uFE8E\uFEA3
+      \uFED2\uFEF4\uFEDB \u060C\u064B\uFE8E\uFE92\uFEA3\uFEAE\uFEE3"
+  - speaker: Ben
+    message: "!\uFEDA\uFEE3\uFEEE\uFEF3 \uFE8F\uFE8E\uFEC3"
+  likedGiftDialogue:
+  - speaker: Ben
+    message: "!\uFE8D\uFEAE\uFEDC\uFEB7 \uFE8D\uFEAC\uFEEB \uFE90\uFEA3\uFE83 \uFE8E\uFED8\uFEA3
+      \uFE8E\uFEE7\uFE83"
+  dislikedGiftDialogue:
+  - speaker: Ben
+    message: ".\uFE8D\u064B\uFEE3\uFE8E\uFEE4\uFE97 \uFEEA\uFE92\uFEA3\uFE83 \uFE8E\uFEE3
+      \uFEB2\uFEF4\uFEDF \uFE8D\uFEAC\uFEEB"
+  neutralGiftDialogue:
+  - speaker: Ben
+    message: "!\uFECA\uFEE7\uFE8E\uFEE3 \uFEFB \u061F\uFEF2\uFEDF \uFE8D\uFEAC\uFEEB"
+  birthdayLikedGiftDialogue:
+  - speaker: Ben
+    message: "!\uFE8D\uFEAC\uFEEB \uFE90\uFEA3\uFE83 \uFE8E\uFEE7\uFE83 !\uFEDA\uFEDF
+      \uFE8D\u064B\uFEAE\uFEDC\uFEB7 !\uFEF1\uFEA9\uFEFC\uFEF4\uFEE3 \uFEAA\uFEF4\uFECB
+      \uFE95\uFEAE\uFEDB\uFEAC\uFE97 \uFEAA\uFED8\uFEDF"
+  birthdayDislikedGiftDialogue:
+  - speaker: Ben
+    message: "\u061F\uFEF1\uFEA9\uFEFC\uFEF4\uFEE3 \uFEE1\uFEEE\uFEF4\uFEDF"
+  - speaker: Ben
+    message: "\u061F!..\uFE8D\uFEAE\uFEDC\uFEB7"
+  birthdayNeutralGiftDialogue:
+  - speaker: Ben
+    message: "!\uFE8D\u064B\uFEAE\uFEDC\uFEB7 !\uFEA9\uFEFC\uFEF4\uFEE3 \uFEAA\uFEF4\uFECB
+      \uFE94\uFEF3\uFEAA\uFEEB"

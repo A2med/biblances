@@ -1,0 +1,554 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\characters\\interactablecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\interactablecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|c:\\users\\sama\\downloads\\bibalance farm\\bibalance farm\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\ui\\tabbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\tabbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Temp\\Compiled-UI-Default.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Temp\\Compiled-UI-Default.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\inventory\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\buying \u0026 selling\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buying \u0026 selling\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\inventory\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\inventory\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\inventory\\itemslotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\itemslotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\inventory\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\dialogue\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogue\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\dialogue\\dialogueline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogue\\dialogueline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\scene transition\\locationentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene transition\\locationentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\characters\\relationshipstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\relationshipstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\characters\\characterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\characterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\characters\\npcrelationshipstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\npcrelationshipstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\ui\\introscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\introscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\ui\\handinventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\handinventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\ui\\shoplistingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\shoplistingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1542FFBA-BD3E-9A59-A29F-D386447F92A0}|Assembly-CSharp-Editor.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\textureatlasslicer\\editor\\textureatlasslicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1542FFBA-BD3E-9A59-A29F-D386447F92A0}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\textureatlasslicer\\editor\\textureatlasslicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\UI\\Core\\Text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\UI\\Core\\Text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\inventory\\equipmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\equipmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\ui\\shoplisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\shoplisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\buying \u0026 selling\\shippingbin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buying \u0026 selling\\shippingbin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\ui\\yesnoprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\yesnoprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\parentedanimationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parentedanimationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\assets\\scripts\\bed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D764DA9B-2881-24DC-3C48-744FD23FB6BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Inventory\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\ItemData.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Inventory\\ItemData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\ItemData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:13:36.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DialogueLine.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Dialogue\\DialogueLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialogue\\DialogueLine.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Dialogue\\DialogueLine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dialogue\\DialogueLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T12:19:52.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Dialogue\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialogue\\DialogueManager.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Dialogue\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dialogue\\DialogueManager.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:29:10.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:55:26.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TabBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\TabBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TabBehaviour.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\TabBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\TabBehaviour.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T12:58:33.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T20:32:37.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LocationEntryPoint.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Scene Transition\\LocationEntryPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene Transition\\LocationEntryPoint.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Scene Transition\\LocationEntryPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene Transition\\LocationEntryPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:04:20.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InteractableCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Characters\\InteractableCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\InteractableCharacter.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Characters\\InteractableCharacter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\InteractableCharacter.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAANAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:57:35.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Inventory\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Inventory\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\InventoryManager.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:13:43.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Compiled-UI-Default.shader",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Temp\\Compiled-UI-Default.shader",
+              "RelativeDocumentMoniker": "Temp\\Compiled-UI-Default.shader",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Temp\\Compiled-UI-Default.shader",
+              "RelativeToolTip": "Temp\\Compiled-UI-Default.shader",
+              "ViewState": "AQIAADUCAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-03-12T19:41:25.571Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InteractableObject.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Inventory\\InteractableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\InteractableObject.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Inventory\\InteractableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\InteractableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T12:45:07.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Buying \u0026 Selling\\Shop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buying \u0026 Selling\\Shop.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Buying \u0026 Selling\\Shop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buying \u0026 Selling\\Shop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:30:28.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CharacterData.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Characters\\CharacterData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\CharacterData.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Characters\\CharacterData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\CharacterData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:00:52.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NPCRelationshipState.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Characters\\NPCRelationshipState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\NPCRelationshipState.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Characters\\NPCRelationshipState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\NPCRelationshipState.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:00:15.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Inventory\\SeedData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\SeedData.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Inventory\\SeedData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T12:44:45.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemSlotData.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Inventory\\ItemSlotData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\ItemSlotData.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Inventory\\ItemSlotData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\ItemSlotData.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T12:44:57.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HandInventorySlot.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\HandInventorySlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HandInventorySlot.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\HandInventorySlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\HandInventorySlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:52:02.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PauseMenu.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAEUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:49:19.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameStateManager.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\GameStateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameStateManager.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\GameStateManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameStateManager.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAM8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:26:02.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RelationshipStats.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Characters\\RelationshipStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\RelationshipStats.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Characters\\RelationshipStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\RelationshipStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:56:45.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MainMenu.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T12:43:53.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IntroScene.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\IntroScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\IntroScene.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\IntroScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\IntroScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T12:35:43.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShopListingManager.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\ShopListingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ShopListingManager.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\ShopListingManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ShopListingManager.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAACIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:34:10.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EquipmentData.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Inventory\\EquipmentData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\EquipmentData.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Inventory\\EquipmentData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\EquipmentData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T12:45:11.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Text.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\UI\\Core\\Text.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\UI\\Core\\Text.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\UI\\Core\\Text.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\UI\\Core\\Text.cs",
+              "ViewState": "AQIAANwBAAAAAAAAAAAAAPQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:06:59.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PlayerInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\PlayerInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInteraction.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\PlayerInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInteraction.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:55:44.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TextureAtlasSlicer.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\TextureAtlasSlicer\\Editor\\TextureAtlasSlicer.cs",
+              "RelativeDocumentMoniker": "Assets\\TextureAtlasSlicer\\Editor\\TextureAtlasSlicer.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\TextureAtlasSlicer\\Editor\\TextureAtlasSlicer.cs",
+              "RelativeToolTip": "Assets\\TextureAtlasSlicer\\Editor\\TextureAtlasSlicer.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAIBQwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:21:40.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShippingBin.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Buying \u0026 Selling\\ShippingBin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buying \u0026 Selling\\ShippingBin.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Buying \u0026 Selling\\ShippingBin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buying \u0026 Selling\\ShippingBin.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:20:30.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerStats.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:13:14.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ShopListing.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\ShopListing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ShopListing.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\ShopListing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ShopListing.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:34:47.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "YesNoPrompt.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\YesNoPrompt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\YesNoPrompt.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\UI\\YesNoPrompt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\YesNoPrompt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:48:05.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ParentedAnimationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\ParentedAnimationEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ParentedAnimationEvent.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\ParentedAnimationEvent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ParentedAnimationEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:33:37.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Bed.cs",
+              "DocumentMoniker": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Bed.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bed.cs",
+              "ToolTip": "C:\\Users\\sama\\Downloads\\BIBalance Farm\\BIBalance Farm\\Assets\\Scripts\\Bed.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:35:58.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

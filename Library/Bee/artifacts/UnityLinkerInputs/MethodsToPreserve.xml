@@ -1,0 +1,83 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="DialogueManager">
+			<method name="UpdateDialogue"/>
+		</type>
+		<type fullname="MainMenu">
+			<method name="Continue"/>
+			<method name="NewGame"/>
+			<method name="Quit"/>
+		</type>
+		<type fullname="PauseMenu">
+			<method name="GoToMainMenu"/>
+			<method name="QuitGame"/>
+			<method name="ResumeGame"/>
+		</type>
+		<type fullname="ShopListingManager">
+			<method name="AddQuantity"/>
+			<method name="CancelPurchase"/>
+			<method name="ConfirmPurchase"/>
+			<method name="SubstractQuantity"/>
+		</type>
+		<type fullname="UIManager">
+			<method name="ToggleInventoryPanel"/>
+			<method name="ToggleMenuPanel"/>
+		</type>
+		<type fullname="YesNoPrompt">
+			<method name="Answer"/>
+			<method name="Answer"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.AudioModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.AudioSource">
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+</linker>
